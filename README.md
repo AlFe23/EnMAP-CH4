@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for detecting and quantifying methane (CH4) emissions **using EnMAP hyperspectral satellite imagery**.
 
-The methodology—originally developed within the CLEAR-UP project—leverages EnMAP’s VNIR/SWIR imaging spectrometer and an enhanced matched-filter technique called **Cluster-Tuned Matched Filter (CTMF)**, applied to Level-1B radiance data. A scene-specific unit-absorption spectrum, generated from a MODTRAN-based lookup table (LUT), serves as the target signature in the matched filter, enabling methane detection in the 2300 nm absorption window. Column enhancements are converted to concentration (ppm·m) by linearly inverting the Beer–Lambert law.
+The methodology, originally developed within the CLEAR-UP project funded by ASI, leverages EnMAP’s VNIR/SWIR imaging spectrometer and an enhanced matched-filter technique called **Cluster-Tuned Matched Filter (CTMF)**, applied to Level-1B radiance data. A scene-specific unit-absorption spectrum, generated from a MODTRAN-based lookup table (LUT), serves as the target signature in the matched filter, enabling methane detection in the 2300 nm absorption window. Column enhancements are converted to concentration (ppm·m) by linearly inverting the Beer–Lambert law.
 
 Check also the implementation for PRISMA: [PRISMA-CH4](https://github.com/AlFe23/PRISMA-CH4/)
 
@@ -18,9 +18,9 @@ Check also the implementation for PRISMA: [PRISMA-CH4](https://github.com/AlFe23
 </div>
 
 
-**Author:** Alvise Ferrari 
+**Authors:** Alvise Ferrari, Giovanni Laneve 
 
-**Contact:** alvise.ferrari@uniroma1.it, ferrarialvise@gmail.com!
+**Contact:** alvise.ferrari@uniroma1.it, ferrarialvise@gmail.com, giovanni.laneve@uniroma1.it
 
 
 **Citation:**
