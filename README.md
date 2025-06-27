@@ -6,12 +6,6 @@ The methodology, originally developed within the CLEAR-UP project funded by ASI,
 
 Check also the implementation for PRISMA: [PRISMA-CH4](https://github.com/AlFe23/PRISMA-CH4/)
 
-> **Key differences vs. the PRISMA implementation**
->
-> - All preprocessing expects EnMAP Level-1B products (VNIR & SWIR GeoTIFFs plus metadata XML).
-> - The provided Docker image supports **single-scene processing only** (batch mode will be re-introduced in a future release).
-> - Output filenames follow the native EnMAP product ID instead of PRISMA naming.
-
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/809c85dc-191e-4804-8a39-d27fcc3bf853" width="20%">
