@@ -57,7 +57,7 @@ In the SWIR spectrum, the absorption windows of methane are centered about 1700 
 
 <div align="center">
   
-$`r = \alpha b + L_{\text{mean}} + \epsilon`$
+$`L_i = \alpha b + L_{\text{mean}} + \epsilon`$
 
 </div>
 
