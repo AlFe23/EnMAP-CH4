@@ -1,3 +1,10 @@
+> ⚠️ **Repository dismissed / no longer maintained**
+>
+> This repository is **deprecated** and **no longer maintained**.
+> Please use **HyGAS** instead: https://github.com/AlFe23/hygas  
+> HyGAS is the actively maintained **multi-sensor** methane detection/quantification framework and **includes EnMAP support** (among other sensors).
+
+
 # EnMAP-CH4
 
 This repository contains the code and resources for detecting and quantifying methane (CH4) emissions **using EnMAP hyperspectral satellite imagery**.
